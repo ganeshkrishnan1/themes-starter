@@ -1,38 +1,38 @@
 {
-    "name": "heyaikeedo/starter",
-    "description": "Aikeedo theme starter",
-    "version": "1.0.0",
+  "name": "totalmagic/magician",
+    "description": "AiHello Theme",
+    "version": "2.0.0",
     "type": "aikeedo-theme",
-    "homepage": "https://aikeedo.com",
-    "time": "2024-03-21",
-    "license": "AIKEEDO",
+    "homepage": "https://totalmagic.ai",
+    "time": "2024-12-21",
+    "license": "AIHELLO",
     "authors": [
         {
-            "name": "Aikeedo",
-            "email": "hey@aikeedo.com",
-            "homepage": "https://aikeedo.com",
+            "name": "Ganesh",
+            "email": "ganesh@totalmagic.ai",
+            "homepage": "https://totalmagic.ai",
             "role": "Owner"
         }
     ],
     "support": {
-        "chat": "https://aikeedo.com/",
-        "docs": "https://docs.aikeedo.com/",
-        "email": "support@aikeedo.com",
-        "forum": "https://aikeedo.com/",
-        "issues": "https://aikeedo.com/",
-        "rss": "https://aikeedo.com/",
-        "source": "https://github.com/heyaikeedo",
-        "wiki": "https://docs.aikeedo.com/"
+        "chat": "https://totalmagic.ai",
+        "docs": "https://docs.totalmagic.ai/",
+        "email": "support@totalmagic.ai",
+        "forum": "https://totalmagic.ai/",
+        "issues": "https://totalmagic.ai/",
+        "rss": "https://totalmagic.ai/",
+        "source": "https://github.com/totalmagic",
+        "wiki": "https://docs.totalmagic.ai/"
     },
     "require": {
         "heyaikeedo/composer": "^1.0.0"
     },
     "extra": {
         "entry-class": "Aikeedo\\Starter\\Theme",
-        "title": "Starter",
-        "description": "Aikeedo theme starter",
-        "logo": "https://aikeedo.com/",
-        "icon": "https://aikeedo.com/",
+        "title": "TotalMagic",
+        "description": "Total Magic Theme",
+        "logo": "https://totalmagic.ai/",
+        "icon": "https://totalmagic.ai/",
         "status": "active"
     },
     "autoload": {
@@ -41,3 +41,4 @@
         }
     }
 }
+
