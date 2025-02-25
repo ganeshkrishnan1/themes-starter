@@ -65,7 +65,7 @@ theme-starter/
 
    ```json
    {
-     "name": "your-vendor/your-theme-name",
+     "name": "totalmagic/magician",
      "description": "Your theme description",
      "version": "1.0.0",
      "type": "aikeedo-theme",
@@ -120,16 +120,16 @@ theme-starter/
 
    ```env
    # Windows path example:
-   BUILD_DIR=C:/xampp/htdocs/aikeedo/public/content/plugins/your-vendor/your-theme-name
+   BUILD_DIR=C:/xampp/htdocs/aikeedo/public/content/plugins/totalmagic/magician
 
    # Linux/Mac path example:
-   BUILD_DIR=/var/www/aikeedo/public/content/plugins/your-vendor/your-theme-name
+   BUILD_DIR=/var/www/aikeedo/public/content/plugins/totalmagic/magician
 
    # Aikeedo server URL (required for development)
    AIKEEDO_SERVER=http://localhost:8000
    ```
 
-   > **Critical**: The final path segments (`your-vendor/your-theme-name`) MUST match your composer.json package name!
+   > **Critical**: The final path segments (`totalmagic/magician`) MUST match your composer.json package name!
 
 4. **Install Dependencies**
 
