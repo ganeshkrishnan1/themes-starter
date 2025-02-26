@@ -28,7 +28,7 @@
         "heyaikeedo/composer": "^1.0.0"
     },
     "extra": {
-        "entry-class": "Aikeedo\\Starter\\Theme",
+        "entry-class": "totalmagic\\magician\\Theme",
         "title": "TotalMagic",
         "description": "Total Magic Theme",
         "logo": "https://totalmagic.ai/",
@@ -37,7 +37,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Aikeedo\\Starter\\": "src/"
+            "totalmagic\\magician\\": "src/"
         }
     }
 }
